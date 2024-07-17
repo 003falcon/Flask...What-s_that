@@ -1,1 +1,1 @@
-# Let's start `flasking`!
+Let's begin this journey of `flasking`!
